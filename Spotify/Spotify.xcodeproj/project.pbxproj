@@ -13,6 +13,7 @@
 		9839910D2875A47900DBF666 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9839910C2875A47900DBF666 /* HomeViewController.swift */; };
 		983991122875A47B00DBF666 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 983991112875A47B00DBF666 /* Assets.xcassets */; };
 		983991152875A47B00DBF666 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 983991132875A47B00DBF666 /* LaunchScreen.storyboard */; };
+		98F4878A289EBBC400365427 /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F48789289EBBC400365427 /* AuthResponse.swift */; };
 		98FA3FD92875D6DE009308E9 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98FA3FD82875D6DE009308E9 /* TabBarViewController.swift */; };
 		98FA3FDB2875D70F009308E9 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98FA3FDA2875D70F009308E9 /* SearchViewController.swift */; };
 		98FA3FDD2875D735009308E9 /* LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98FA3FDC2875D735009308E9 /* LibraryViewController.swift */; };
@@ -41,6 +42,7 @@
 		983991112875A47B00DBF666 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		983991142875A47B00DBF666 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		983991162875A47B00DBF666 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98F48789289EBBC400365427 /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 		98FA3FD82875D6DE009308E9 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		98FA3FDA2875D70F009308E9 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		98FA3FDC2875D735009308E9 /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				98FA3FF62875E32C009308E9 /* AudioTrack.swift */,
 				98FA3FF82875E35A009308E9 /* Artist.swift */,
 				98FA3FFA2875E387009308E9 /* UserProfile.swift */,
+				98F48789289EBBC400365427 /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				98FA3FE72875D81A009308E9 /* ProfileViewController.swift in Sources */,
 				98FA3FD92875D6DE009308E9 /* TabBarViewController.swift in Sources */,
 				98FA3FF32875E1D7009308E9 /* HapticsManager.swift in Sources */,
+				98F4878A289EBBC400365427 /* AuthResponse.swift in Sources */,
 				98FA3FF72875E32C009308E9 /* AudioTrack.swift in Sources */,
 				9839910D2875A47900DBF666 /* HomeViewController.swift in Sources */,
 				98FA3FE12875D7C9009308E9 /* AuthViewController.swift in Sources */,
